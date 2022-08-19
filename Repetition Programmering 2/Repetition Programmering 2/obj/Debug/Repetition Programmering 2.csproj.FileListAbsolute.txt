@@ -1,0 +1,8 @@
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\bin\Debug\Repetition Programmering 2.exe.config
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\bin\Debug\Repetition Programmering 2.exe
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\bin\Debug\Repetition Programmering 2.pdb
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\obj\Debug\Repetition Programmering 2.csproj.AssemblyReference.cache
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\obj\Debug\Repetition Programmering 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\obj\Debug\Repetition Programmering 2.csproj.CoreCompileInputs.cache
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\obj\Debug\Repetition Programmering 2.exe
+C:\Users\melvin.turessonnils\Documents\Github\Repetition-Programmering-2\Repetition Programmering 2\Repetition Programmering 2\obj\Debug\Repetition Programmering 2.pdb
