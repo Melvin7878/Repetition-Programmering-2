@@ -11,7 +11,9 @@ namespace Repetition_Programmering_2
         //Variables
         static private int UserInput_Number;
         static private float UserInput_DecimalNumber;
-        static private string UserInput_Word;
+        static private string UserInput_Word;        //kolla senare med chars och annat
+
+        //wrod char arrays
 
         static void Main(string[] args)
         {
@@ -59,46 +61,59 @@ namespace Repetition_Programmering_2
             //Word
 
             Console.Write("Please enter a random word!");
+            Console.WriteLine();
             string wordUserInput = Console.ReadLine();
             Console.WriteLine();
 
-            //Results
+            ////Results
             Console.Clear();
 
             //Result 1
-            Console.Write("Result 1");
+            Console.Write("Result 1:");
+            Console.WriteLine();
             Console.WriteLine(UserInput_Number / UserInput_DecimalNumber);
 
             //Result 2
+            Console.WriteLine();
             Console.WriteLine("Result 2");
             Console.WriteLine(UserInput_DecimalNumber / UserInput_Number);
 
             //Result 3
+            Console.WriteLine();
             Console.WriteLine("Result 3");
             Console.WriteLine(wordUserInput.ToUpper());
 
             //Result 4
+            Console.WriteLine();
             Console.WriteLine("Result 4");
             Console.WriteLine(wordUserInput.ToLower());
 
             //Result 5
+            Console.WriteLine();
             Console.Write("Result 5");
+            Console.WriteLine();
+
             if (wordUserInput.Contains("apple"))
             {
-                Console.WriteLine("The word contains the term apple");
+                Console.Write("The word contains the term apple");
             }
             else
             {
+                Console.WriteLine();
                 Console.WriteLine("The word doesn't contain the term apple");
             }
 
+            //Proceedings to the next assignemnt
             Console.WriteLine();
-            Console.WriteLine("Press a key to move on to the next assignment");
+            Console.WriteLine();
+            Console.WriteLine("Press a button to continue to the next assignment");
             Console.ReadKey();
+            Console.Clear();
             #endregion
 
 
             //Assignment 2 
+
 
         }
     }
